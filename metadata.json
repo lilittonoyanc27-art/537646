@@ -1,0 +1,6 @@
+{
+  "name": "¿Quién Quiere Ser Millonario? — Իսպաներեն / Español",
+  "description": "Իսպաներենի ուսուցողական խաղ «Ո՞վ է ուզում դառնալ միլիոնատեր» ոճով, Presente ժամանակաձևով, թարգմանություններով և լսողական թվային խաղով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
